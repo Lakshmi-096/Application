@@ -1,3 +1,4 @@
 This is file A
 This is the change to file Agit status
 I am doing some changes git add.
+Hello git home
